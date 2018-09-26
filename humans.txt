@@ -9,10 +9,12 @@
 
     Tanuja
 	Tanujajasti@gmail.com
-	Charlotte, NC
+    NC
 
 # TECHNOLOGY COLOPHON
+
 
     HTML5, CSS3
     jQuery, Modernizr
 	Machine learning, AWS, Google cloud
+
