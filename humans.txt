@@ -9,9 +9,10 @@
 
     Tanuja
 	Tanujajasti@gmail.com
-	Charlotte, NC
+    NC
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    HTML5, CSS3, Angular
+    jQuery, Modernizr, Azax
+	Docker, Java Pragramming
