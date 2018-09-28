@@ -6,6 +6,7 @@
 # TEAM
 
     <name> Tanuja Jasti	<twitter>
+	tanujajasti@gmail.com
 
 # THANKS
 
