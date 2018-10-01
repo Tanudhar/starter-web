@@ -14,3 +14,4 @@ Fork the repor and raise full request for review
 
 ## GIT Comparisions
 Adding GIT Comparisions lecture
+Adding new lectures of Stash
