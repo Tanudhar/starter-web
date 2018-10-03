@@ -4,3 +4,5 @@ partner in the 36-fighter jet deal and that France had not been given a choice. 
 ministry spokesperson tweeted that the report "is being verified" and that "neither GoI (government of India) 
 nor the French Government had any say in the commercial decision." Congress president Rahul Gandhi, who has been 
 attacking the PM over the Rafale deal, tweeted to say "the PM has betrayed India".
+
+This is git tag commit
